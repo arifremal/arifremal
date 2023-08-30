@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal) 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal)  
   
   <br/><br/><br/>
 </div>
