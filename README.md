@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arifremal/arifremal/output/github-contribution-grid-snake.svg" />
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal) 
   
   <br/><br/><br/>
 </div>
