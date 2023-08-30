@@ -43,23 +43,14 @@
 
 <br/>
 <hr/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=arifremal)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifremal)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifremal&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal)  
-
-![GitHub metrics](https://metrics.lecoq.io/arifremal)  
-
-![Profile views](https://gpvc.arturio.dev/arifremal)  
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal)  
+ 
   
   <br/><br/><br/>
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arifremal)  
 </div>
 
 <hr/>
